@@ -160,7 +160,3 @@ This script serves as a demonstration of Detectron2's capabilities and is indepe
   - `torch` and `torchvision` (for Detectron2)
   - `detectron2`
 
-## Acknowledgments
-
-This project is a simplified implementation of video compression and playback concepts, demonstrating the use of DCT, motion vectors, and binary encoding. The integration of Detectron2 showcases the potential of machine learning in video analysis.
-
